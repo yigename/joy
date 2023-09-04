@@ -1,0 +1,5 @@
+server:
+  port: 6000
+netty:
+  port: 6001
+  useSsl: false
